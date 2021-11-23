@@ -1,8 +1,6 @@
-# docker-yarn-python-awscli
+# docker-pnpm-firebase-tools
 A Docker image containing the standard setup for a node-based static website generator.
 It contains the following:
 
-* Yarn Package Manager
-* Python
-* PIP
-* AWSCLI for you to publish to Amazon effectively.
+* pnpm
+* firebase-tools
